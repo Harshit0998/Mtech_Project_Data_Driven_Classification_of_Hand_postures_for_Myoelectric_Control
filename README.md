@@ -1,7 +1,7 @@
 # Data Driven Calssification of Hand Postures for Myoelectric Control
 
 *Mtech Thesis Project – IIT Guwahati*.  
-[Dataset used](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9hYWE3ODk1NGYxNWU2NTU5L1FsbGxYdkZVaWFjZ2dLbzRBUUFBQUFBQ3ZYQ2p2a2VKVDFHc3N3&id=AAA78954F15E6559%21312&cid=AAA78954F15E6559)
+[Website](https://rami-khushaba.com/biosignals-repository) and [Dataset used](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9hYWE3ODk1NGYxNWU2NTU5L1FsbGxYdkZVaWFjZ2dLbzRBUUFBQUFBQ3ZYQ2p2a2VKVDFHc3N3&id=AAA78954F15E6559%21312&cid=AAA78954F15E6559)
 
 ## Project Overview
 This project is my M.Tech thesis work, focused on developing a **data-driven framework** for classifying hand gestures using surface Electromyography (sEMG) signals.  
