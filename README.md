@@ -1,6 +1,5 @@
 # Data Driven Calssification of Hand Postures for Myoelectric Control
 
-# Data Driven Classification of Hand Gestures for Myoelectric Control  
 *Mtech Thesis Project – IIT Guwahati*  
 
 ## Project Overview
