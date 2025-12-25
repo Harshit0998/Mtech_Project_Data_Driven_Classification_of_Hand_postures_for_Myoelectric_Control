@@ -10,11 +10,11 @@ The long-term goal is to enable **intelligent and intuitive control of hand exos
 ---
 
 ## Objectives
-- Build a pipeline for **preprocessing raw EMG signals** (amplification, filtering, segmentation).  
+- Preprocessed **raw EMG signals** (amplification, filtering, segmentation).  
 - Extract **time, frequency, and statistical features** to create structured feature matrices.  
 - Apply **machine learning algorithms (Random Forest, SVM, Extra Trees)** for gesture classification.  
 - Implement **Non-Negative Matrix Factorization (NMF)** to uncover muscle synergies and reduce dimensionality.  
-- Achieve high classification accuracy and provide insights into the data lifecycle.  
+- Achieve high classification accuracy and provide insights.  
 
 ---
 
